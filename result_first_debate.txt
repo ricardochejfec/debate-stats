@@ -1,0 +1,57 @@
+Enter the transcript's file name: 
+Trump used 1163 different words out of 3825 words
+3.28890799656
+
+Hillary used 1227 different words out of 2788 words
+2.27220863896
+
+ DT: country - 51     |     HC: would - 41
+ DT: going - 47       |     HC: well - 40
+ DT: look - 44        |     HC: think - 38
+ DT: think - 38       |     HC: people - 32
+ DT: said - 37        |     HC: know - 28
+ DT: people - 36      |     HC: going - 24
+ DT: dont - 34        |     HC: donald - 23
+ DT: say - 32         |     HC: one - 22
+ DT: know - 30        |     HC: need - 22
+ DT: many - 28        |     HC: really - 19
+ DT: get - 27         |     HC: said - 18
+ DT: secretary - 27   |     HC: tax - 16
+ DT: well - 26        |     HC: get - 16
+ DT: one - 25         |     HC: want - 15
+ DT: want - 24        |     HC: good - 15
+ DT: years - 24       |     HC: got - 15
+ DT: like - 22        |     HC: country - 14
+ DT: clinton - 22     |     HC: make - 14
+ DT: go - 21          |     HC: go - 13
+ DT: would - 21       |     HC: work - 13
+ DT: thing - 21       |     HC: jobs - 13
+ DT: things - 21      |     HC: business - 13
+ DT: companies - 20   |     HC: new - 12
+ DT: good - 20        |     HC: economy - 11
+ DT: much - 20        |     HC: police - 11
+ DT: cant - 20        |     HC: american - 11
+ DT: way - 20         |     HC: nuclear - 11
+ DT: really - 19      |     HC: dont - 10
+ DT: jobs - 19        |     HC: actually - 10
+ DT: new - 18         |     HC: million - 10
+ DT: tell - 17        |     HC: also - 10
+ DT: money - 17       |     HC: look - 10
+ DT: great - 16       |     HC: many - 10
+ DT: bad - 16         |     HC: communities - 10
+ DT: leaving - 15     |     HC: information - 9
+ DT: tax - 15         |     HC: put - 9
+ DT: could - 15       |     HC: say - 9
+ DT: believe - 15     |     HC: see - 9
+ DT: bring - 15       |     HC: deal - 9
+ DT: back - 15        |     HC: important - 9
+ DT: ever - 14        |     HC: ever - 8
+ DT: got - 14         |     HC: iran - 8
+ DT: agree - 14       |     HC: president - 8
+ DT: world - 14       |     HC: talk - 8
+ DT: deal - 14        |     HC: kind - 8
+ DT: isis - 14        |     HC: years - 8
+ DT: time - 14        |     HC: debt - 8
+ DT: wrong - 13       |     HC: things - 8
+ DT: take - 13        |     HC: back - 8
+ DT: need - 13        |     HC: working - 8

@@ -1,0 +1,57 @@
+Enter the transcript's file name: 
+Trump used 814 different words out of 2213 words
+2.71867321867
+
+Hillary used 1117 different words out of 2506 words
+2.24350940018
+
+ DT: going - 48       |     HC: people - 32
+ DT: people - 40      |     HC: think - 27
+ DT: country - 25     |     HC: said - 25
+ DT: look - 21        |     HC: donald - 23
+ DT: dont - 20        |     HC: well - 22
+ DT: say - 19         |     HC: women - 20
+ DT: well - 19        |     HC: country - 19
+ DT: know - 19        |     HC: would - 17
+ DT: — - 19         |     HC: want - 17
+ DT: think - 18       |     HC: going - 17
+ DT: get - 17         |     HC: get - 16
+ DT: way - 17         |     HC: jobs - 16
+ DT: many - 16        |     HC: president - 15
+ DT: mosul - 15       |     HC: kind - 15
+ DT: go - 13          |     HC: make - 15
+ DT: tell - 13        |     HC: know - 14
+ DT: want - 13        |     HC: one - 12
+ DT: borders - 13     |     HC: help - 11
+ DT: great - 12       |     HC: years - 11
+ DT: would - 12       |     HC: went - 11
+ DT: one - 12         |     HC: dont - 11
+ DT: hillary - 12     |     HC: election - 11
+ DT: take - 12        |     HC: way - 11
+ DT: said - 11        |     HC: go - 10
+ DT: much - 11        |     HC: work - 10
+ DT: right - 11       |     HC: court - 10
+ DT: states - 10      |     HC: really - 10
+ DT: happened - 10    |     HC: american - 10
+ DT: millions - 10    |     HC: tax - 10
+ DT: believe - 10     |     HC: undocumented - 10
+ DT: bad - 10         |     HC: immigrants - 9
+ DT: wants - 10       |     HC: need - 9
+ DT: money - 10       |     HC: also - 9
+ DT: second - 9       |     HC: debt - 9
+ DT: iran - 9         |     HC: government - 9
+ DT: didnt - 9        |     HC: rights - 8
+ DT: president - 9    |     HC: even - 8
+ DT: obama - 9        |     HC: new - 8
+ DT: wall - 9         |     HC: trump - 8
+ DT: iraq - 9         |     HC: plan - 8
+ DT: putin - 9        |     HC: come - 8
+ DT: like - 9         |     HC: let - 8
+ DT: amendment - 9    |     HC: like - 8
+ DT: back - 9         |     HC: stand - 8
+ DT: never - 8        |     HC: clear - 8
+ DT: give - 8         |     HC: second - 7
+ DT: talk - 8         |     HC: united - 7
+ DT: wanted - 8       |     HC: million - 7
+ DT: first - 8        |     HC: believe - 7
+ DT: nobody - 8       |     HC: see - 7

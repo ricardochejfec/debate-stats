@@ -1,0 +1,57 @@
+Enter the transcript's file name: 
+Trump used 957 different words out of 2766 words
+2.89028213166
+
+Hillary used 1010 different words out of 2219 words
+2.19702970297
+
+ DT: people - 50      |     HC: people - 32
+ DT: going - 42       |     HC: donald - 27
+ DT: country - 31     |     HC: country - 25
+ DT: know - 31        |     HC: want - 24
+ DT: look - 26        |     HC: said - 21
+ DT: one - 25         |     HC: president - 19
+ DT: said - 25        |     HC: think - 19
+ DT: hillary - 23     |     HC: going - 18
+ DT: dont - 21        |     HC: get - 17
+ DT: say - 21         |     HC: would - 16
+ DT: like - 21        |     HC: insurance - 15
+ DT: things - 19      |     HC: know - 15
+ DT: think - 19       |     HC: first - 13
+ DT: get - 19         |     HC: women - 12
+ DT: want - 18        |     HC: work - 12
+ DT: president - 17   |     HC: health - 12
+ DT: take - 17        |     HC: care - 12
+ DT: isis - 17        |     HC: one - 12
+ DT: great - 16       |     HC: america - 12
+ DT: taxes - 16       |     HC: go - 11
+ DT: bad - 16         |     HC: never - 11
+ DT: obama - 15       |     HC: well - 11
+ DT: russia - 15      |     HC: like - 11
+ DT: many - 15        |     HC: children - 10
+ DT: would - 14       |     HC: great - 10
+ DT: didnt - 14       |     HC: got - 10
+ DT: years - 14       |     HC: every - 9
+ DT: never - 13       |     HC: million - 9
+ DT: tell - 13        |     HC: tax - 9
+ DT: states - 13      |     HC: years - 9
+ DT: disaster - 13    |     HC: take - 9
+ DT: clinton - 13     |     HC: campaign - 9
+ DT: go - 12          |     HC: way - 9
+ DT: talk - 12        |     HC: important - 8
+ DT: done - 12        |     HC: worked - 8
+ DT: see - 12         |     HC: make - 8
+ DT: united - 11      |     HC: back - 8
+ DT: make - 11        |     HC: muslims - 8
+ DT: back - 11        |     HC: time - 8
+ DT: really - 10      |     HC: try - 7
+ DT: care - 10        |     HC: trump - 7
+ DT: thing - 10       |     HC: heard - 7
+ DT: believe - 10     |     HC: good - 7
+ DT: cities - 10      |     HC: american - 7
+ DT: wants - 10       |     HC: say - 7
+ DT: well - 10        |     HC: also - 7
+ DT: money - 10       |     HC: look - 7
+ DT: inner - 10       |     HC: right - 7
+ DT: percent - 10     |     HC: question - 7
+ DT: talks - 9        |     HC: together - 7
